@@ -1,9 +1,9 @@
 ### Olá, eu sou o Matheus Teodoro 👋
 
-- 🏭 Atualmente sou estagiário na área de Engenharia de Métodos na Aptiv
+- 🏭 Atualmente atuo como Business Intelligence Analyst no Bradesco
 - ✍ Graduando em Engenharia de Controle e Automação
-- 📕 Estudando Flutter e interessado em atuar na área de Desenvolvimento
-- 📖 Também estou estudando Python para Análise de Dados
+- 📖 Experiência em SQL, SAS e Python para análise de dados
+- 📕 Estudando Flutter e desenvolvimento de aplicativos móveis
 
 <!--
   <div>
