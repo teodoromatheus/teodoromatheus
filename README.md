@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Teodoro 👋
 
 - 🏭 Atualmente atuo como Business Intelligence Analyst no Bradesco
-- ✍ Graduado em Engenharia de Controle e Automação
+- ✍ Graduado em Engenharia de Controle e Automação na UNIFEI
 - 📖 Experiência em SQL, SAS e Python para análise de dados
 
 <!--
